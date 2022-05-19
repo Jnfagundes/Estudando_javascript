@@ -18,3 +18,4 @@ function returnEvenValues(array) {
 }
 
 let array = [1, 2, 4, 5, 7, 8];
+
