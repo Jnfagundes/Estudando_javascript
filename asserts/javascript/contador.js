@@ -6,6 +6,6 @@ function increment(){
 }
 
 function decrement(){
-    currentNumber = currentNumber - 1;
+    currentNumber = currentNumber -3; 
     currentNumberwrapper.innerHTML = currentNumber;
 }
