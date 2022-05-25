@@ -29,4 +29,11 @@ if(firstName === 'João') {
 
 console.log(firstName, lastName);
 
+//Estudando constantes
+//Declaradas em SNAKE_UPPER_CASE
+//Tem escopo de bloco
+//Não faz hoisting
+
+const FIRST_NAME = "José";
+
 
