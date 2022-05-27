@@ -7,10 +7,12 @@ const soma = function(a, b) {
 soma(1, 2);
 
 //Função autoinvocável
-function ( ) {
+(
+function(){
     let name = "Digital Innovation One"
     return name;
 }
+)
 
 //Funções Callbacks (funções passadas como argumento para outra função)
 const calc = function(operacao, num1, num2){
